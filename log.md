@@ -5,16 +5,16 @@
 
 **Today's Progress**: Worked through FreeCodeCamp's Front-end Tutorial (Just HTML today).  Also completed practicequery2 for my DBs class.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Getting started was a bit slow but I think this will be a promising 100 days.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** N/A
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 0: February 11, 2020
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Continued on tutorial, plan to build a page for my web app later.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
